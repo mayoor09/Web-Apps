@@ -1,0 +1,1 @@
+﻿SELECT * FROM Animal WHERE Id in (SELECT AnimalId FROM ZooAnimal WHERE ZooID =(SELECT Id FROM Zoo WHERE Location = 'New York'))
