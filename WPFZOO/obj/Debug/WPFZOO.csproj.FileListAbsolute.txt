@@ -1,0 +1,15 @@
+C:\Users\ico7506\source\repos\WPFZOO\bin\Debug\WPFZOO.exe.config
+C:\Users\ico7506\source\repos\WPFZOO\bin\Debug\WPFZOO.exe
+C:\Users\ico7506\source\repos\WPFZOO\bin\Debug\WPFZOO.pdb
+C:\Users\ico7506\source\repos\WPFZOO\obj\Debug\WPFZOO.csproj.AssemblyReference.cache
+C:\Users\ico7506\source\repos\WPFZOO\obj\Debug\MainWindow.g.cs
+C:\Users\ico7506\source\repos\WPFZOO\obj\Debug\App.g.cs
+C:\Users\ico7506\source\repos\WPFZOO\obj\Debug\WPFZOO_MarkupCompile.cache
+C:\Users\ico7506\source\repos\WPFZOO\obj\Debug\WPFZOO_MarkupCompile.lref
+C:\Users\ico7506\source\repos\WPFZOO\obj\Debug\MainWindow.baml
+C:\Users\ico7506\source\repos\WPFZOO\obj\Debug\WPFZOO.g.resources
+C:\Users\ico7506\source\repos\WPFZOO\obj\Debug\WPFZOO.Properties.Resources.resources
+C:\Users\ico7506\source\repos\WPFZOO\obj\Debug\WPFZOO.csproj.GenerateResource.cache
+C:\Users\ico7506\source\repos\WPFZOO\obj\Debug\WPFZOO.csproj.CoreCompileInputs.cache
+C:\Users\ico7506\source\repos\WPFZOO\obj\Debug\WPFZOO.exe
+C:\Users\ico7506\source\repos\WPFZOO\obj\Debug\WPFZOO.pdb
