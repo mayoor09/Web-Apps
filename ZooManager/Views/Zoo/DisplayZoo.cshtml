@@ -1,0 +1,21 @@
+﻿@model IEnumerable<ASPDemo.Models.Zoo>
+
+<h2>Zoo Manager</h2>
+    <table class="table">
+        <tr>
+            <th>List of zoos</th>
+        </tr>
+    
+    @foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink(item.Location, "DisplayZooAnimals", new { id = item.Location })
+        </td>
+        <td>
+            @Html.ActionLink("View Animals", "DisplayZooAnimals", new {id = item.Location}) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+    }
+    
+    </table>
